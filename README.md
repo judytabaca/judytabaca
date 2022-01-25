@@ -6,7 +6,7 @@
 
 ### Welcome! Please feel free to roam my Github to get to know my road to becoming a Front-end Developer.
 
-:arrow_right: I am currently finishing 6 months mentoring program learning React as well as <br> 3 month's frontend developer mentoring programme from DareIT <br>
+:arrow_right: I am currently finishing 6 months mentoring program learning React as well as <br> a 3 month's frontend developer mentoring programme from DareIT <br>
 :arrow_right: I am actively looking for a first job in the industry. <br>
 :arrow_right: I work on my personal projects. <br>
 :arrow_right: And collaborate with other future front-end developers from [CodersCamp 2021](https://github.com/CodersCamp2021)<br>
