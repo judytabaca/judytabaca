@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @judytabaca
+- 👋 Hi, I’m Judyta but everyone calls me Judy
 - 👀 I’m interested in UX Design & Frontend Development
 - 🌱 I’m currently learning Javascript & React
 - 💞️ I’m looking to collaborate on exciting projects
