@@ -12,7 +12,7 @@
 :arrow_right: And collaborate with other future front-end developers from [CodersCamp 2021](https://github.com/CodersCamp2021)<br>
 :arrow_right: I am very passionate about front-end development, web applications and UX design. <br>
 :arrow_right: I love to learn, design, build things, and code. <br>
-:arrow_right: I have education in UX Design 🤍_heart: <br>
+:arrow_right: I have education in UX Design 🤍 <br>
 :arrow_right: you can find me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/judytabaca/)
 
 
